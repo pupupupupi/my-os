@@ -1,0 +1,1 @@
+cargo install bootimage --version "^0.9.0"

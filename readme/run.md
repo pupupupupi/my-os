@@ -1,0 +1,1 @@
+D:\software\qemu\qemu-system-x86_64.exe -drive format=raw,file=D:\rust\blog_os\target\x86_64-blog_os\debug\bootimage-blog_os.bin
